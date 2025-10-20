@@ -53,7 +53,7 @@ The goal is to simulate the execution of a RISC-V assembly program. For a given 
 
 1.  **Clone the repository**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/Ramcharan2905/cpu-simulation-riscv/
     cd riscv-pipeline-simulator
     ```
 
